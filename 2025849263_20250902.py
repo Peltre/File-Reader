@@ -74,12 +74,6 @@ def MostUsedWords(words):
 # Call function
 readAndCountAll()
 
-# Expected output
-# doc file: Total Words 84, Most used "I" and "elif" 5 times each
-# docx file: Total Words 79, Most used "I"
-# txt file: Total Words 85, Most used "test" 6 times each
-# pdf file: Total Words 917, Most used "sit" and "ac"
-
 
 
 
