@@ -1,4 +1,4 @@
-# Code by Pedro Sotelo Arce | Student ID: 2025849263 | Last Modified: 02/09/2025 at 3:27pm
+# Code by Pedro Sotelo Arce | Student ID: 2025849263 | Last Modified: 02/09/2025 at 3:58pm
 # Import libraries to read pdf / docx / doc files
 import PyPDF2
 import docx
@@ -75,6 +75,7 @@ readAndCountAll()
 # docx file: Total Words 79, Most used "I"
 # txt file: Total Words 85, Most used "test" 6 times each
 # pdf file: Total Words 917, Most used "sit" and "ac"
+
 
 
 
