@@ -1,4 +1,4 @@
-## Python File Reader
+## Python File Reader 🐍
 #### This script uses different Python libraries to handle files with different extensions.
 #### It also counts the words within them & obtains most used word(s) and the times they are repeated throughout the file
 #### Currently handles
