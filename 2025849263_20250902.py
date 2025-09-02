@@ -42,6 +42,10 @@ def readAndCountAll():
         file = textract.process(filename)
         text = file.decode('utf-8')
         splitAndCountWords(text)
+    
+    # Handle empty & undesired file extensions
+    else:
+        print("File extension not supported by this function")
 
 # Function to separately count the words in the file to avoid code repetition
 def splitAndCountWords(text):
